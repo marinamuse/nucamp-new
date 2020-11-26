@@ -1,0 +1,16 @@
+CHANGE IT UP CHALLENGE
+
+index.html:
+    > changed default data interval of carousel to 2400ms
+    > removed carousel border and made rounded images
+    > made a box layout (or how do you call it)
+    > added shadow to the main div
+    > made cards for features
+    > changed background of nav to match the jumbotron
+    > changed colors
+    > changed logo image
+
+aboutus.html, contactus.html:
+    > removed breadcrumb
+    > added table hover class
+    > changed layout and colors
